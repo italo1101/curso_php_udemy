@@ -1,0 +1,15 @@
+{
+    "name": "italo/composer",
+    "description": "aula de composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Italo Cruz",
+            "email": "italocruz544@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require":{
+        "monolog/monolog": "1.0.*"
+    }
+}
